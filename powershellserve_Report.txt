@@ -1,0 +1,24 @@
+Windows Update Report For Computer: powershellserve
+Report Created On: 11/03/2020 11:37:23
+==============================================================================
+
+List of Applicable Updates For This Computer
+------------------------------------------------
+	 1 -- Windows Malicious Software Removal Tool x64 - v5.83 (KB890830)
+	 2 -- Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.327.251.0)
+
+
+Initialising Download of Applicable Updates
+------------------------------------------------
+	 1 -- Downloading Update Windows Malicious Software Removal Tool x64 - v5.83 (KB890830) 
+	 Download Status: SUCCESS
+	 2 -- Downloading Update Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.327.251.0) 
+	 Download Status: SUCCESS
+
+
+Installation of Downloaded Updates
+------------------------------------------------
+	 1 -- Installing Update: Windows Malicious Software Removal Tool x64 - v5.83 (KB890830)
+	 Update Installation Status: SUCCESS
+	 2 -- Installing Update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.327.251.0)
+	 Update Installation Status: SUCCESS

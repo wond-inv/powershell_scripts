@@ -1,0 +1,1 @@
+﻿Select-String -Path "Senha.txt" -Pattern Guest -Context 1,1
